@@ -1,23 +1,11 @@
-<p align="center"><a href="https://ams.aliatayee.com" target="_blank"><h1>Attendance Management System</h1></a></p>
 
-## About Attendance Management System
+## About Attendance Tracker
 
-Attendance Management System is a web application based on Laravel which keeps track of employee hours. It is the system you use to document the time your employees work and the time they take off.
-
-## Major Technologies
-- HTML5
-- CSS
-- JAVASCRIPT
-- BOOTSTRAP
-- PHP
-- LARAVEL
-
-## Demo
-<a href="http://ams.alihost.co">Demo link</a> 
+A web application developed using Laravel, designed to track and manage employee work hours effectively. The system provides various features to monitor attendance, generate reports, and manage employees' schedules.
 
   ### Admin credential
-    username:ali@aliatayee.com
-    password:ali123
+    username:admin@ams.com
+    password:admin@ams.com
 
 
 ### Install & Setup
@@ -66,39 +54,11 @@ $ php artisan serve
 ```
 
 ## Screenshots
-![1](https://user-images.githubusercontent.com/74867463/144262662-b7fbe66e-5c4c-46fb-8bab-9cf3121c2032.png)
-![2](https://user-images.githubusercontent.com/74867463/144262668-545c4d8d-8570-4e38-a769-4c26520e366d.png)
-![3](https://user-images.githubusercontent.com/74867463/144262431-32223a06-8c25-49fd-b969-56a4bab697f2.png)
-![4](https://user-images.githubusercontent.com/74867463/144262645-29d4bfa4-c737-4123-8c22-c8c1fd49477e.png)
+![image](https://github.com/user-attachments/assets/4e0f7c3b-16f5-4953-8aef-7cc6ac94713f)
+![image](https://github.com/user-attachments/assets/973e19dc-97ec-4021-a224-6097370501bc)
+![image](https://github.com/user-attachments/assets/8ccbe963-2b75-47bc-a088-04183647930a)
 
 
-### Prerequisites
-- PHP installed
-- Composer installed
-- IDE to edit and run the code (We use Visual Studio Code 🔥).
-- Git to versionning your work.
-
-### Authors
-👤 **Ali**
-
-- GitHub: [@aliatayee](https://github.com/aliatayee)
-- Twitter: [@aqaatayee](https://twitter.com/aqaatayee)
 
 
-## 🤝 Contributing
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## Contributing
-
-Thank you for considering contributing to the attendance management system!.
 
