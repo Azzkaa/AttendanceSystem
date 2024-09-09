@@ -10,14 +10,9 @@ A web application developed using Laravel, designed to track and manage employee
 
 ### Install & Setup
 
-To setup and install Attendance Management System project, follow the below steps:
-- Clone this project by the command: 
+To setup and install Attendance Management System project, follow the below steps: 
 
-```
-$ git clone https://github.com/aliatayee/Attendance_Management_System
-```
-
-- Then switch to the project folder by the bellow query:
+-  Switch to the project folder by the bellow query:
 
 ```
 $ cd Attendance_Management_System
